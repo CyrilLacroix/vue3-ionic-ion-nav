@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "vue3-ionic-ion-nav",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
